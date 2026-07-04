@@ -98,7 +98,7 @@ Some of the key questions explored in this project include:
 
 ## 📷 Dashboard Preview  
 
-![Dashboard](YOUR_IMAGE_LINK_HERE)
+![Dashboard](https://github.com/durvapatkar1/Hr_analytics_dashboard/blob/main/hr_analytics_dashboard_SS.png)
 
 ---
 
