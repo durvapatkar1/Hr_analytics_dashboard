@@ -18,7 +18,7 @@ This project marks my step into the world of **data analytics and storytelling u
 ---
 ## 📌 Steps followed:
 
-[Download the dataset from here](YOUR_DATASET_LINK)
+[Download the dataset from here](https://github.com/durvapatkar1/Hr_analytics_dashboard/blob/main/HR_Analytics.csv)
 
 ### 1. Data Gathering:
 
